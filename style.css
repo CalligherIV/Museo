@@ -1,0 +1,29 @@
+header  {
+    text-align: center;
+    background-color: burlywood;
+}
+
+div.enlaces {
+    text-align: center;
+    background-color: greenyellow;
+}
+
+a {
+    text-decoration: none;
+}
+
+div.quienessomos {
+    background-color: orange;
+}
+
+div.info {
+    background-color: orange;
+}
+
+div.pie {
+    background-color: blue;
+}
+
+p.pie {
+    background-color: yellow;
+}
